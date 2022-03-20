@@ -1,6 +1,6 @@
-# flutter_application_2
+# Udemy Course
 
-A new Flutter project.
+A new Flutter project using the Udemy course as a base.
 
 ## Getting Started
 
