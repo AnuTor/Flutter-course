@@ -7,7 +7,7 @@ class Category {
 
   const Category({
     @required this.id,
-    this.title,
+    @required this.title,
     this.color = Colors.orange,
   });
 }
